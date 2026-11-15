@@ -1,4 +1,4 @@
-MONGODB_USERNAME=suthan3556_db_user
-MONGODB_PASSWORD=0Fn9mVBlq4HLAjRm
-MONGO_URI=mongodb+srv://suthan3556_db_user:0Fn9mVBlq4HLAjRm@cluster0.697uciw.mongodb.net
+MONGODB_USERNAME="pranithi2007_db_user"
+MONGODB_PASSWORD="gKeIM85JnSewfw3Y"
+MONGODB_URI="mongodb+srv://pranithi2007_db_user:gKeIM85JnSewfw3Y@cluster0.xxnmbei.mongodb.net"
 PORT=5000
